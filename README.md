@@ -1,12 +1,1 @@
-# algo-examples
-
-
-## Part 2 
-### Exercise 1
-
-input |  0(n^2)              0(n)
-------|---------------------|---------
-10    |  00:00:00.0213870   |00:00:00.0197440
-100   |  00:00:00.0000820   |00:00:00.0000060
-1000  |  00:00:00.0080820   |00:00:00.0000070
-10000 |  00:00:00.8080720   |00:00:00.0000620
+Exercises for the course 'Algorithms and datastructures' at Centria University of Applied Sciences in the spring of 2020. 
